@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-08T20:48:44.216Z'
-dateModified: '2016-03-08T20:48:28.952Z'
+description: 'Hyper-tall, eco-friendly, habitats...Improving life for all'
+datePublished: '2016-03-08T21:05:35.769Z'
+dateModified: '2016-03-08T20:48:50.727Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-08-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
