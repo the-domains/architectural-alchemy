@@ -1,6 +1,6 @@
 name: Architectural Alchemy
 favicon: null
-layout_spectrum: 0.22883
+layout_spectrum: 0.17745
 typography_spectrum: 0.22198
 title: Positive Global Change through Architecture and Design
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#010206'
+    - '#f6edb4'
+    - '#17429e'
+    - '#3a83e1'
+    - '#b39d78'
   brandStrength: 0.4375
   lightness: 0.75
   saturation: 0.1875
