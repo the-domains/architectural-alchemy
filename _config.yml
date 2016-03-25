@@ -1,7 +1,7 @@
 name: Architectural Alchemy
 favicon: null
-layout_spectrum: 0.17745
-typography_spectrum: 0.24231
+layout_spectrum: 0.25916
+typography_spectrum: 0.06994
 title: Architectural Alchemy
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#acacac'
-    - '#5f5f5f'
-    - '#383838'
-    - '#5ca3ad'
-    - '#f7f7f7'
-  brandStrength: 0.375
-  lightness: 0.75
-  saturation: 0.1875
+    - '#ffffff'
+    - '#de0907'
+    - '#02abea'
+    - '#7f7f7f'
+    - '#fbf305'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.25
 purpose: []
