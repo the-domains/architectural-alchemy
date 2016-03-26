@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Healing Earth : Hyper-tall, Eco-Friendly Cities'
-datePublished: '2016-03-25T23:28:00.239Z'
-dateModified: '2016-03-25T23:24:41.226Z'
+datePublished: '2016-03-26T05:11:55.416Z'
+dateModified: '2016-03-26T05:10:39.876Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
@@ -43,5 +43,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e95e5ef-ad1e-4d81-b144-f25e43863ca5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/415b8e16-64b1-4061-b66a-0d279c1e9809.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64491305-f684-482b-992f-bf3e03b16a2e.jpg)
-
-Healing Earth : Hyper-tall, Eco-Friendly Cities
