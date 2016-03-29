@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "exploring the world's 20 tallest buildings in '20"
-datePublished: '2016-03-29T09:33:35.732Z'
-dateModified: '2016-03-29T09:33:24.645Z'
+datePublished: '2016-03-29T09:35:41.752Z'
+dateModified: '2016-03-29T09:35:41.218Z'
 title: twenty x twenty
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
@@ -41,3 +41,6 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e95e5ef-ad1e-4d81-b144-f25e43863ca5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/415b8e16-64b1-4061-b66a-0d279c1e9809.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64491305-f684-482b-992f-bf3e03b16a2e.jpg)
+
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdf41c80-7b47-4dc7-934c-02c9e32c0243.jpg)
