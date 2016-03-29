@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Healing Earth : Hyper-tall, Eco-Friendly Cities'
-datePublished: '2016-03-29T09:18:44.699Z'
-dateModified: '2016-03-26T05:12:02.327Z'
-title: ''
+description: "exploring the world's 20 tallest buildings in '20"
+datePublished: '2016-03-29T09:33:35.732Z'
+dateModified: '2016-03-29T09:33:24.645Z'
+title: twenty x twenty
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
 published: true
@@ -19,12 +19,10 @@ publisher:
   url: null
   favicon: null
 url: undefined/index.html
-_type: Article
+_type: WebPage
 
 ---
-> # "twenty by twenty" exploring the 20 tallest buildings by 2020
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95ff783f-e12d-434a-be37-5683cd7a9b10.jpg)
+![Shanghai World Financial Centre](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed402d37-f6a0-494e-9d76-e24b9ca9d2b5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d2338db-20b2-4df0-80cb-5d57f5724006.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1accf39c-e9e1-4ddb-97a5-088881ae98f9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e002259f-9739-4837-8ade-78d8c79db58d.jpg)
