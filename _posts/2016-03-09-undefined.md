@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T09:43:07.718Z'
-dateModified: '2016-03-29T09:42:46.035Z'
+datePublished: '2016-03-29T09:50:57.213Z'
+dateModified: '2016-03-29T09:50:09.648Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
@@ -22,4 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdf41c80-7b47-4dc7-934c-02c9e32c0243.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ff98d9-38d2-4c56-bd53-4dd5d3db4d83.jpg)
