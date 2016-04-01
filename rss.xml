@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Architectural Alchemy]]></title>
         <description><![CDATA[Architectural Alchemy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/architectural-alchemy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:53:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 17:09:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/architectural-alchemy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Architectural Alchemy]]></title>
+            <description><![CDATA[<article><h1>Architectural Alchemy</h1><p>Could this tiny house change our future? Its designer says yes.  Why? Because it offers a more moderate solution to those who while enthused about living green, are not willing or able to sell all their worldly possessions and hit the road with a 98 square foot trailer they are towing behind their Subaru.  At just under 555 square feet, this house of the future certainly represents a paradigm shift from the McMansion.  The price? The designer hopes to be able to build the house (excluding land) for under $70,000 while using leading edge technology and 100% earth friendly materials.  While that price will not delight the do-it-yourselfer, it will very appealing to those seeking an eco-friendly home that fulfills the need to right-size and simplify.  This is a perfect choice for those who seek a house that still feels like the home they have come to know rather than feeling like an extended wilderness camping trip that never ends. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f4a76e-7ff3-412b-8d27-94fc5de695af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/architectural-alchemy/architectural-alchemy/index.html</link>
+            <guid isPermaLink="false">f3524a86-28f6-4598-86ea-3a6bf8d55033</guid>
+            <pubDate>Fri, 01 Apr 2016 17:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f333503-8b9c-4e85-8022-4ba089d048fc.jpg">]]></description>
-            <link>undefinedthe-cornerstones-family-friends-and-passion/index.html</link>
+            <link>https://thegrid.ai/architectural-alchemy/the-cornerstones-family-friends-and-passion/index.html</link>
             <guid isPermaLink="false">cef54a07-1d80-49f2-b638-7acffd57835d</guid>
             <pubDate>Tue, 29 Mar 2016 09:52:21 GMT</pubDate>
         </item>
